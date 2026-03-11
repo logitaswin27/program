@@ -8,3 +8,4 @@ printf("Enter the b: ");
 scanf("%d",&b);
 c = a + b;
 printf("The add value :",c);
+}
